@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BreifSpeltWrong, AKA Alastair.
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently doing A-Levels
-- 📫 How to reach me: BreifSpeltWrong#1607
+- 📫 How to reach me: breif on discord.
 
 <!---
 BreifSpeltWrong/BreifSpeltWrong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
