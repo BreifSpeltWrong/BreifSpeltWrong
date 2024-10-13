@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BreifSpeltWrong, AKA Alastair.
+- 👋 Hi, I’m @BreifSpeltWrong, AKA Al.
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently doing A-Levels
+- 🌱 I’m currently doing Bsc Cyber security at Lancaster Uni
 - 📫 How to reach me: breif on discord.
 
 <!---
